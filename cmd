@@ -1,2 +1,2 @@
-cmd ehco hello world
+cmd echo hello world
 cmd pause
