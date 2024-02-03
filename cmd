@@ -1,2 +1,1 @@
-cmd echo hello world
-cmd pause
+loop 3 cmd echo hello,world!
