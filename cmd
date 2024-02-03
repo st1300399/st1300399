@@ -1,3 +1,2 @@
-say Hello,World!
-start cmd
-cmd echo Goodbye,World!
+cmd ehco hello world
+cmd pause
