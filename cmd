@@ -1,1 +1,1 @@
-loop 3 cmd echo hello,world!
+loop 3 say echo hello,world!
