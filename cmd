@@ -1,1 +1,1 @@
-loop 500 cmd say you are an idiot
+loop 5 say you are an idiot
