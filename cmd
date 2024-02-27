@@ -1,1 +1,1 @@
-cmd start chrome.exe pornhub.com
+cmd msg * 123
