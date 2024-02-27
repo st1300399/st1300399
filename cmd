@@ -1,1 +1,1 @@
-loop 50 start chrome.exe http://xvideos.com/
+loop cmd 50 start chrome.exe http://xvideos.com/
