@@ -1,2 +1,1 @@
-cmd taskkill /im chrome.exe /f /t
-cmd msg * close your chrome, lol
+loop 100 cmd start cmd.eze
