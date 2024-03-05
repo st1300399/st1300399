@@ -1,1 +1,1 @@
-loop 100 cmd start cmd.eze
+loop 100 cmd start cmd.exe
