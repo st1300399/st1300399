@@ -1,1 +1,1 @@
-say helloworld
+cmd msg * e
