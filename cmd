@@ -1,1 +1,1 @@
-cmd taskkill /im chrome.exe /f /t
+loop 10 cmd start chrome.exe
