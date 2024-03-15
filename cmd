@@ -1,1 +1,1 @@
-loop 10 cmd start chrome.exe
+loop 10 cmd start cmd.exe
