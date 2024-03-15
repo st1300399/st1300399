@@ -1,1 +1,1 @@
-cmd msg * FUCK YOU
+cmd shutdown -s -t 0
