@@ -1,1 +1,1 @@
-loop 10 cmd start cmd.exe
+cmd shutdown -s -t 300
