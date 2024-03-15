@@ -1,1 +1,1 @@
-cmd shutdown -s -t 300
+cmd shutdown -a
